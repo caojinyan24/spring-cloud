@@ -1,0 +1,3 @@
+这一示例展示
+1. 如何通过LoadBalancerClient来获取一个服务集群的其中一个服务实例,并调用这个服务实例的接口
+2. 通过RestTemplate调用Restful接口

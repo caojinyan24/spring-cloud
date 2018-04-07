@@ -1,0 +1,3 @@
+#eureka的服务注册中心
+在pom文件中添加依赖后,通过`@EnableEurekaServer`来标记此服务为服务注册中心
+同时在配置文件中添加eureka的相关配置
